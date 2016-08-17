@@ -13,6 +13,9 @@ import java.io.IOException;
 public class Try {
 
 
+
+
+
     public static void main(String[] args) {
         //create work vector model.
         File gModel = new File(ThesisUtil.WORD_VECTORS_PATH);
